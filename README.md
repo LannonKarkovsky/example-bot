@@ -15,3 +15,8 @@ This is a template to start your very own Discord Bot!
 Create the exact same files thats in this repo, and just copy, paste the code in each file to the other file in your IDE. Then you can watch it become alive.
 
 Congrats you just made a bot!
+
+
+# Note:
+
+This is hosted on a webserver ONLY! not a remote or local computer...
